@@ -1,0 +1,3 @@
+# Kodu çalıştırmak ve streamlit ekranında görmek için pycharm terminaline " streamlit run AnaSayfa.py " yazınız.
+# Verileri sqlite de görmek ve kodun doğru çalıştığından emin olmak için sqlite browser kurun.
+# Kullanılan resimleri görebilmek için indirmek gerekiyor.
